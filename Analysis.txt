@@ -1,0 +1,9 @@
+Pyber Analysis by Mohammad "Fahim" Rahman
+
+Densely populated areas such as in the urban cities have more rideshare options.
+
+Urban cities have more ride options available at a lower average rate
+compared to suburban and rural cities.
+
+The lack of availability of drivers in suburban and rural reflects rate increases across the board.
+
